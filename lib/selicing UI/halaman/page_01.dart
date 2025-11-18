@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:selicing_ui/component/bannerinfo.dart';
-import 'package:selicing_ui/component/komponentUi1.dart';
-import 'package:selicing_ui/component/menuapp.dart';
-import 'package:selicing_ui/component/saldoapp.dart';
-import 'package:selicing_ui/component/bannerinfo.dart';
+import 'package:selicing_ui/selicing%20UI/component/bannerinfo.dart';
+import 'package:selicing_ui/selicing%20UI/component/komponentUi1.dart';
+import 'package:selicing_ui/selicing%20UI/component/menuapp.dart';
+import 'package:selicing_ui/selicing%20UI/component/saldoapp.dart';
+// import 'package:selicing_ui/selicing%20UI/component/bannerinfo.dart';
 class Page01 extends StatelessWidget {
   const Page01({super.key});
 

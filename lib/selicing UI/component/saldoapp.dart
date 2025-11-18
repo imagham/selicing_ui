@@ -1,7 +1,7 @@
 // import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:selicing_ui/component/komponentUi2.dart';
+import 'package:selicing_ui/selicing%20UI/component/komponentUi2.dart';
 
 class Saldoapp extends StatelessWidget {
   const Saldoapp({super.key});
