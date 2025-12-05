@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:selicing_ui/screen/latihan01.dart';
 import 'package:selicing_ui/selicing%20UI%204/page/page1.dart';
 // import 'package:lottie/lottie.dart';
 // import 'package:animated_splash_screen/animated_splash_screen.dart';
@@ -30,7 +31,7 @@ class MyApp extends StatelessWidget {
       //   splashIconSize: 100,
       //   backgroundColor: Colors.white,
       // ), 
-      home: Page1(),
+      home: Latihan01(),
     );
   }
 }
